@@ -1,1 +1,4 @@
-# SpringBootLoginDemo_Cs0_Vue
+- 采用Vue-Router作为路由
+- 采用Axios作为异步请求框架
+- 采用Element-Plus作为UI组件库
+- 使用unplugin-auto-import按需引入，减少打包后体积
